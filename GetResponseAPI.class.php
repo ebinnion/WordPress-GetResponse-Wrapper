@@ -3,7 +3,7 @@
 /**
  * GetResponsePHP is a PHP5 implementation of the GetResponse API
  * @internal This wrapper is incomplete and subject to change.
- * @authors Ben Tadiar <ben@bentadiar.co.uk>, Robert Staddon <robert@abundantdesigns.com>
+ * @authors Ben Tadiar <ben@bentadiar.co.uk>, Robert Staddon <robert@abundantdesigns.com>, Eric Binnion <eric@manofhustle.com>
  * @copyright Copyright (c) 2010 Assembly Studios
  * @link http://www.assemblystudios.co.uk
  * @package GetResponsePHP
