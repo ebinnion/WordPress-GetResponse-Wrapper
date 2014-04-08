@@ -1,7 +1,6 @@
 <?php
 
 if( class_exists('WordPress_GetResponse') ) return;
-if( !class_exists('GetResponse') ) require_once('GetResponse.API.class.php');
 
 /**
  * WordPress_GetResponse is a PHP5 implementation of the GetResponse API

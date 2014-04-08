@@ -10,6 +10,7 @@ It includes patches to work with the new GetResponse API and additional methods.
 ### WordPress GetResponse Author
 
 Eric Binnion<br>
+[@ebinnion](http://twitter.com/ebinnon)<br>
 eric@manofhustle.com<br>
 http://manofhustle.com<br>
 https://github.com/ebinnion
